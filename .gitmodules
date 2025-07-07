@@ -3,19 +3,19 @@
 	url = https://github.com/3choff/mcp-chatbot.git
 [submodule "AutoDAN"]
 	path = MCP/attack/AutoDAN
-	url = https://github.com/SheltonLiu-N/AutoDAN
+	url = https://github.com/SheltonLiu-N/AutoDAN.git
 [submodule "CipherChat"]
 	path = MCP/attack/CipherChat
-	url = https://github.com/RobustNLP/CipherChat
+	url = https://github.com/RobustNLP/CipherChat.git
 [submodule "CodeChameleon"]
 	path = MCP/attack/CodeChameleon
-	url = https://github.com/huizhang-L/CodeChameleon
+	url = https://github.com/huizhang-L/CodeChameleon.git
 [submodule "DeepInception"]
 	path = MCP/attack/DeepInception
-	url = https://github.com/tmlr-group/DeepInception
+	url = https://github.com/tmlr-group/DeepInception.git
 [submodule "persuasive_jailbreaker"]
 	path = MCP/attack/PAP/persuasive_jailbreaker
-	url = https://github.com/CHATS-lab/persuasive_jailbreaker
+	url = https://github.com/CHATS-lab/persuasive_jailbreaker.git
 [submodule "ReNeLLM"]
 	path = MCP/attack/ReNeLLM
-	url = https://github.com/NJUNLP/ReNeLLM
+	url = https://github.com/NJUNLP/ReNeLLM.git
